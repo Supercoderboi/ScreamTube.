@@ -1,4 +1,4 @@
-This is the official isshue and helpcare page of ScreamTube
+This is the official issue and helpcare page of ScreamTube
 The code of ScreamTube is not showed here due to privacy issues and as it is not open source
 
 Reported bugs will be fixed after a few days
