@@ -1,5 +1,3 @@
-ScreamTube has been permanently Shut Down due to personal reasons
-
 This is the official issue and helpcare page of ScreamTube
 The code of ScreamTube is not showed here due to privacy issues and as it is not open source
 
